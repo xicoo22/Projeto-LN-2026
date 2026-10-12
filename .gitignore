@@ -1,0 +1,23 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# trained models (not submitted)
+models/
+*.pt
+*.bin
+*.safetensors
+*.joblib
+*.pkl
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
